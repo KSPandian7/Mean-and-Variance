@@ -80,7 +80,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 # Output : 
 
-### Input Value :
+### Input Value -
 ```python
 5 0 1 5 2 3 7 5 3 5 5 7 7 2 3 3 5 3 6 1
 ```
